@@ -33,4 +33,5 @@ def credit_card_bill():
         print(f"{store}: ${total}")
         print("")
 
+# Call the function to execute the code
 credit_card_bill()
